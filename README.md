@@ -40,7 +40,7 @@ Follow these steps to get the project running on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/davideoliveri/staking-poc-ui
 cd staking-poc-ui
 ```
 
